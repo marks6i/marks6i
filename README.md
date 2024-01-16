@@ -6,3 +6,5 @@ Take a look at my **bucket** repo for a useful template for storing data in buck
 
 ### For those interested in Python:
 If you use BeautifulSoup a lot, take a look at my short BeautifulScoop repo. I created a clas whic can visualize the results of a BeautifulSoup search -- its great for debugging your BeautifulSoup code.
+
+I was tired of printing images on my printer and using up ink because the image had either a black background or a not-quite-white background. If you have the same problem, the image-convert repo has a solution which will save you ink.
