@@ -1,2 +1,8 @@
 # MarkS6i
 Welcome to my GitHub page! Its not much but I periocically put stuff up that I am working on or found to be useful grenerally.  Check out my public repos if you're interested in Python or C++.  I am a software engineer by vocation; a statistician by education; and a data analyst by avocation.  I teach data analytics to adult learners in a bootcamp format.  You might find repos in any of those areas.
+
+### For those interested in C++:
+Take a look at my **bucket** repo for a useful template for storing data in buckets defined as sub ranges on an ordered sequence.
+
+### For those interested in Python:
+If you use BeautifulSoup a lot, take a look at my short BeautifulScoop repo. I created a clas whic can visualize the results of a BeautifulSoup search -- its great for debugging your BeautifulSoup code.
